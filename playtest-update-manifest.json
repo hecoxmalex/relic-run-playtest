@@ -1,12 +1,11 @@
 {
-    "version":  "0.1.0",
-    "title":  "Relic Run Playtest v0.1.0",
-    "publishedAt":  "2026-05-31",
-    "downloadUrl":  "https://github.com/hecoxmalex/relic-run-playtest/releases/download/v0.1.0/RelicRun-playtest-v0.1.0.zip",
-    "notes":  [
-                  "First public playtest release channel.",
-                  "Standalone Windows client packaged for testers.",
-                  "Prompted update checks are now pointed at GitHub Releases.",
-                  "Includes current world movement, character model, town visuals, skilling, banking, chat, and playtest UI."
-              ]
+  "version": "0.1.1",
+  "title": "Relic Run Playtest v0.1.1",
+  "publishedAt": "2026-05-31",
+  "downloadUrl": "https://github.com/hecoxmalex/relic-run-playtest/releases/download/v0.1.1/RelicRun-playtest-v0.1.1.zip",
+  "notes": [
+    "Expanded the playable 3D town prototype with camera, movement, and modular in-game UI.",
+    "Added physical mining nodes, inventory slots, stacked banking, and timed ground drops.",
+    "Improved bank/building interaction behavior, including auto-closing building windows when out of range."
+  ]
 }
